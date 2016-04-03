@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bootstrap Example</title>
+
+    
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel = "stylesheet" href ="hackStyle.css">
+    <script type="text/javascript"></script>
+  </head>
+  <body>
+  <div class= "fullRow">
+    <img src="http://www.headsub.com/attachment/2unBbWM3/Templates/Textures/audio_icon.png" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+
+    <h1 class = "appname">Gesture Sound</h1>
+
+    </div>
+    <div class= "threerow">
+      <button class="newbutton">Capabilities</button>
+      <button class="newbutton">Source Code</button>
+      <button class="newbutton">About Us</button>
+      <div class="after"></div>
+      
+    </div>
+
+    
+    
+    
+
+    <div class= "threerow2">
+    <div class="horizontal"></div>
+    <div class="horizontal"></div>
+    <div class="horizontal"></div>
+    
+    <div class= "after"></div>
+    
+      
+    </div>
+    <div class= "threerow2">
+    <div class="horizontal"></div>
+    
+    <div class="horizontal"></div>
+    
+    <div class="horizontal"></div>
+    <div class= "after"></div>
+    
+      
+    </div>
+    <div class="finish"></div>
+
+
+
+  </body>
+</html>
